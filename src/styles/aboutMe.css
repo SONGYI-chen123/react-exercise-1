@@ -1,0 +1,13 @@
+.aboutMe{
+    margin: 20px;
+}
+
+.aboutMe h1{
+    color: red;
+}
+
+.aboutMe p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    padding-top: 20px;
+}
